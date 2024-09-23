@@ -1,5 +1,8 @@
 # FastAPI endpoint template
 
+A FastAPI endpoint template that can be cloned and/or forked to create new endpoints based off the simple one implemented here.
+
+
 # Installation
 
 We assume Python, `pip`, and `git` are installed, as well as an internet connection.
